@@ -43,6 +43,8 @@ While **traditional Deep Learning** may involve [manifold learning](http://sciki
 https://www.youtube.com/watch?v=62YVT2LlXAI
 
 
+THE SUPERSYMMETRIC ARTIFICIAIL NEURAL NET STEMS FROM:
+https://jordanmicahbennett.github.io/Supermathematics-and-Artificial-General-Intelligence/
 
 
 AUTHOR PORTFOLIO
