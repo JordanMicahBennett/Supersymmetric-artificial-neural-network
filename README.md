@@ -25,9 +25,10 @@ This means that machine learning researchers study what functions are best to tr
 
 &nbsp;
 
-**The** [**“Supersymmetric Artificial Neural Network”**](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is yet another way to **represent richer values** in the weights of the model; because **supersymmetric values** can allow for **more information to be captured about the input space.** For example, supersymmetric systems can capture **potential-partner** signals, which are **beyond** the feature space of **magnitude** and **phase signals** learnt in **typical** **real valued neural nets **and **deep complex neural networks** respectively. As such, a brief historical progression of geometric solution spaces for varying neural network architectures follows:
+**The** [**“Supersymmetric Artificial Neural Network”**](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) is yet another way to **represent richer values** in the weights of the model; because **supersymmetric values** can allow for **more information to be captured about the input space.** For example, supersymmetric systems can capture **potential-partner** signals, which are **beyond** the feature space of **magnitude** and **phase signals** learnt in **typical** **real valued neural nets** and **deep complex neural networks** respectively. As such, a brief historical progression of geometric solution spaces for varying neural network architectures follows:
 
 ![](https://i.imgur.com/BSdLBPe.png)
+paper: https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis
 
 
 SUMMARY
