@@ -1,4 +1,4 @@
-![Alt text](https://github.com/JordanMicahBennett/God/blob/master/source%20code/data/images/GodV2.png "default page")
+![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/source%20code/image.png "default page")
 
 What is the motivation behind the "Supersymmetric Artificial Neural Network?"
 ============================================
