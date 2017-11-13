@@ -1,4 +1,4 @@
-![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/image.png "default page")
+![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image.png "default page")
 
 What is the motivation behind the "Supersymmetric Artificial Neural Network?"
 ============================================
