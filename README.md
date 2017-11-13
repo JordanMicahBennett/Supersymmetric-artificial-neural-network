@@ -6,8 +6,6 @@ What is the motivation behind the "Supersymmetric Artificial Neural Network?"
 
 The "[Supersymmetric Artificial Neural Network](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)" is a [Lie Superalgebra](https://en.wikipedia.org/wiki/Lie_superalgebra) aligned algorithmic learning model **(created on May 10, 2016)**, based on [evidence ](https://arxiv.org/abs/0705.1134)pertaining to [Supersymmetry](https://en.wikipedia.org/wiki/Supersymmetry) in the biological brain.
 
-&nbsp;
-
 
 To describe the **significance** of the "[Supersymmetric Artificial Neural Network](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)", I will describe an** informal proof** of the **representation power** gained by **deeper abstractions** generatable by learning [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) weights.
 
@@ -32,12 +30,13 @@ This means that machine learning researchers study what functions are best to tr
 ![](https://i.imgur.com/BSdLBPe.png)
 
 
-![](https://i.imgur.com/yY0RXYx.jpg)
+SUMMARY
+==================
 
 
 **Notation 1 - [Manifold](https://en.wikipedia.org/wiki/Manifold) Learning:** ϕ(x,θ)<SUP>T</SUP>w [(Bengio et al)](http://www.deeplearningbook.org/)
 
-**Notation 2 - [Supermanifold](https://en.wikipedia.org/wiki/Supermanifold) Learning:** ϕ(x,θ, θ¯)<SUP>T</SUP>w [(Jordan Bennett)](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)
+**Notation 2 - [Supermanifold](https://en.wikipedia.org/wiki/Supermanifold) Learning:** ϕ(x,θ,θ¯)<SUP>T</SUP>w [(Jordan Bennett)](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)
 
 While **traditional Deep Learning** may involve [manifold learning](http://scikit-learn.org/stable/modules/manifold.html), my work concerns [supermanifold learning](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) instead, as **briefly** seen in the notation differences above.
 
