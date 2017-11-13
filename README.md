@@ -30,9 +30,8 @@ This means that machine learning researchers study what functions are best to tr
 ![](https://i.imgur.com/BSdLBPe.png)
 
 
-SUMMARY
+TEXT-SUMMARY
 ==================
-
 
 **Notation 1 - [Manifold](https://en.wikipedia.org/wiki/Manifold) Learning:** ϕ(x,θ)<SUP>T</SUP>w [(Bengio et al)](http://www.deeplearningbook.org/)
 
@@ -40,10 +39,12 @@ SUMMARY
 
 While **traditional Deep Learning** may involve [manifold learning](http://scikit-learn.org/stable/modules/manifold.html), my work concerns [supermanifold learning](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) instead, as **briefly** seen in the notation differences above.
 
+VIDEO-SUMMARY
 https://www.youtube.com/watch?v=62YVT2LlXAI
 
 
 THE SUPERSYMMETRIC ARTIFICIAIL NEURAL NET STEMS FROM:
+==================
 https://jordanmicahbennett.github.io/Supermathematics-and-Artificial-General-Intelligence/
 
 
