@@ -30,6 +30,10 @@ This means that machine learning researchers study what functions are best to tr
 ![](https://i.imgur.com/NRA0CH3.png)
 paper: https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis
 
+PAPER
+==================
+https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27
+
 
 SUMMARY
 ==================
