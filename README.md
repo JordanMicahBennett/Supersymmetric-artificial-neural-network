@@ -49,7 +49,7 @@ YOUTUBE-SUMMARY
 https://www.youtube.com/watch?v=62YVT2LlXAI
 
 
-THE SUPERSYMMETRIC ARTIFICIAIL NEURAL NET STEMS FROM:
+THE SUPERSYMMETRIC ARTIFICIAIL NEURAL NETWORK STEMS FROM:
 ==================
 https://jordanmicahbennett.github.io/Supermathematics-and-Artificial-General-Intelligence/
 
