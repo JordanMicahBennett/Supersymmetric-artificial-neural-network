@@ -32,7 +32,7 @@ paper: https://www.researchgate.net/publication/316586028_Thought_Curvature_An_u
 
 PAPER
 ==================
-[Thought curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)
+[https://www.researchgate.net/publication/Thought_Curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)
 
 
 SUMMARY
