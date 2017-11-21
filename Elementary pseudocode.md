@@ -1,6 +1,6 @@
 Overview before pseudocode
 ===========================
-1. There has been a clear progression of “**solution geometries**”, ranging from those of the ancient [Perceptron](https://en.wikipedia.org/wiki/Perceptron) to [unitaryRNN's](https://arxiv.org/abs/1611.00035) or [complex valued neural nets](https://arxiv.org/abs/1705.09792). These models may be denoted by ϕ(x,θ) parameterized by θ, expressible as geometrical groups ranging from _SO(n)_ to _U(n)_, and they got **better at representing input data i.e. representing richer weights**, thus the learning models generated better hypotheses or guesses.
+1. There has been a clear progression of “**solution geometries**”, ranging from those of the ancient [Perceptron](https://en.wikipedia.org/wiki/Perceptron) to [unitaryRNN's](https://arxiv.org/abs/1611.00035) or [complex valued neural nets](https://arxiv.org/abs/1705.09792). These models may be denoted by ϕ(x,θ)<SUP>T</SUP>w parameterized by θ, expressible as geometrical groups ranging from _SO(n)_ to _U(n)_, and they got **better at representing input data i.e. representing richer weights**, thus the learning models generated better hypotheses or guesses.
 
 
 2. By “**solution geometry**” I mean simply the class of regions where an algorithm's weights may lie, when generating those weights to do some task.
