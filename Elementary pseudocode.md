@@ -9,7 +9,7 @@ Overview before pseudocode
 3. As such, if one follows **cognitive science**, one would know that biological brains may be measured in terms of **supersymmetric** operations. (Perez et al, “[Supersymmetry at brain scale”](https://arxiv.org/abs/0705.1134))
 
 
-4. These supersymmetric biological brain representations can be represented by special unitary notation _SU(n)_, or ϕ(x,θ,θ<sup>–</sup>)<SUP>T</SUP>w  parameterized by θ,θ<sup>–</sup>, which are supersymmetric directions, unlike θ seen in item (1). Notably, Supersymmetric values can **encode or represent more information** than the prior classes seen in (1), in terms of “partner potential” signals for example.
+4. These supersymmetric biological brain representations can be represented by special unitary notation _SU(m|n)_, or ϕ(x,θ,θ<sup>–</sup>)<SUP>T</SUP>w  parameterized by θ,θ<sup>–</sup>, which are supersymmetric directions, unlike θ seen in item (1). Notably, Supersymmetric values can **encode or represent more information** than the prior classes seen in (1), in terms of “partner potential” signals for example.
 
 
 5. So, state of the art machine learning work forming _U(n)_ based solution geometries, in for e.g, the [unitaryRNN](https://arxiv.org/abs/1611.00035) are **already** in the **family** of **solution geometries** that may be observed as occurring in the biological brain _SU(n)_, but not _SU(m|n)_, which is observed in biological brains. This is where the [“**Supersymmetric artificial neural network**”](https://jordanmicahbennett.github.io/Supermathematics-and-Artificial-General-Intelligence/) fits in.
