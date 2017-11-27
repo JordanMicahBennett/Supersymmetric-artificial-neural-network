@@ -1,7 +1,10 @@
 Overview before pseudocode
 ===========================
 ![](https://i.imgur.com/wbklbFL.png)
+
 Image snippet, because markdown doesn't appear to support LATex Math Symbols. (Source [a quora answer of mine](https://www.quora.com/How-far-are-we-from-achieving-artificial-general-intelligence-AGI/answer/Jordan-Bennett-9?srid=Jj6I))
+
+As you can see in the concluding line above, there is good motivation to do something wrt to _SU(m|n)_ space. This is what the "Supersymmetric Artificial Neural Network" is all about.
 
 Pseudocode
 ===========================
