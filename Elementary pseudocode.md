@@ -1,6 +1,6 @@
 Overview before pseudocode
 ===========================
-[!alt image](https://i.imgur.com/wbklbFL.png)
+[!](https://i.imgur.com/wbklbFL.png)
 Image snippet, because markdown doesn't appear to support LATex Math Symbols. (Source [a quora answer of mine](https://www.quora.com/How-far-are-we-from-achieving-artificial-general-intelligence-AGI/answer/Jordan-Bennett-9?srid=Jj6I))
 
 Pseudocode
