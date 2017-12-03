@@ -13,8 +13,8 @@ a. Initialize input [Supercharge](https://en.wikipedia.org/wiki/Supercharge) com
 
 b. Compute ∇C w.r.t. to _SU(m|n)_, where _C_ is some cost manifold.
 
-* Weight space is reasonably some K¨ahler potential like form: _K(φ, φ∗)_, obtained on some initial projective space _CP<SUP>(n−1)</SUP>_. ([source](https://arxiv.org/pdf/hep-th/0006025.pdf))
-* It is feasible that _CP<SUP>(n−1)</SUP>_ (a _C<SUP>∞</SUP>_ bound projection) may be obtained from linear projections of [grassmann manifold networks](https://arxiv.org/pdf/1611.05742.pdf) where A ∈ φ<SUB>i</SUB> (U<SUB>i</SUB> ∩ U<SUB>j</SUB>) holds if and only if a certain submatrix of A is invertible.
+* Weight space is reasonably some K¨ahler potential like form: _K(φ, φ∗)_, obtained on some initial projective space _CP<SUP>n−1</SUP>_. ([source](https://arxiv.org/pdf/hep-th/0006025.pdf))
+* It is feasible that _CP<SUP>n−1</SUP>_ (a _C<SUP>∞</SUP>_ bound projection) may be obtained from linear projections of [grassmann manifold networks](https://arxiv.org/pdf/1611.05742.pdf) where some invertible submatrix entailing matrix A ∈ φ<SUB>i</SUB> (U<SUB>i</SUB> ∩ U<SUB>j</SUB>), for U<SUB>i</SUB> = π(_V<SUB>i</SUB>_), where π is a submersion mapping enabling some differentiable grassmann manifold GF<SUB>k,n</SUB>, and _V<SUB>i</SUB>_ = {u ∈ R<SUP>n×k</SUP>: det(u<SUB>i</SUB>) != 0}.
 
 c. Parameterize _SU(m|n)_ in -∇C terms, by [Darboux transformation](https://www.encyclopediaofmath.org/index.php/Darboux_transformation).
 
