@@ -9,7 +9,7 @@ As you can see in the concluding line above, there is good motivation to do some
 Pseudocode
 ===========================
 
-a. Initialize input [Supercharge](https://en.wikipedia.org/wiki/Supercharge) compatible [special unitary matrix](https://en.wikipedia.org/wiki/Special_unitary_group) _SU(m|n)_ 
+a. Initialize input [Supercharge](https://en.wikipedia.org/wiki/Supercharge) compatible [special unitary matrix](https://en.wikipedia.org/wiki/Special_unitary_group) _SU(m|n)_.
 
 b. Compute ∇C w.r.t. to _SU(m|n)_, where _C_ is some cost manifold.
     
