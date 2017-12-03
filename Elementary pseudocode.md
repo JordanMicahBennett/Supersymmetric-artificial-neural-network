@@ -2,7 +2,7 @@ Overview before pseudocode
 ===========================
 ![](https://i.imgur.com/Mp7Ttxb.png)
 
-  _Image snippet, because markdown doesn't appear to support LATex Math Symbols. (Source [a quora answer of mine](https://www.quora.com/How-far-are-we-from-achieving-artificial-general-intelligence-AGI/answer/Jordan-Bennett-9?srid=Jj6I))_
+  _Image snippet, because markdown doesn't appear to support LATex Math Symbols. (Source [thought curvature paper](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27))_
 
 As you can see in the concluding line above, there is good motivation to do something wrt to _SU(m|n)_ space. This is what the "Supersymmetric Artificial Neural Network" is all about.
 
