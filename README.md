@@ -38,7 +38,7 @@ PAPER
 SUMMARY
 ==================
 
-![](https://i.imgur.com/eI6nwIy.png)
+![](https://i.imgur.com/Uru3bU0.png)
 
 YOUTUBE-SUMMARY
 ==================
