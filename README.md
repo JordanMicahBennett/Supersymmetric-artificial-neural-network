@@ -38,11 +38,7 @@ PAPER
 SUMMARY
 ==================
 
-**Notation 1 - [Manifold](https://en.wikipedia.org/wiki/Manifold) Learning:** ϕ(x,θ)<SUP>T</SUP>w [(Bengio et al)](http://www.deeplearningbook.org/)
-
-**Notation 2 - [Supermanifold](https://en.wikipedia.org/wiki/Supermanifold) Learning:** ϕ(x,θ,θ<sup>–</sup>)<SUP>T</SUP>w [(Jordan Bennett)](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis)
-
-While **traditional Deep Learning** may involve [manifold learning](http://scikit-learn.org/stable/modules/manifold.html), my work concerns [supermanifold learning](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis) instead, as **briefly** seen in the notation differences above.
+![](https://i.imgur.com/eI6nwIy.png)
 
 YOUTUBE-SUMMARY
 ==================
