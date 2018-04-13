@@ -50,6 +50,7 @@ THE SUPERSYMMETRIC ARTIFICIAIL NEURAL NETWORK STEMS FROM:
 https://jordanmicahbennett.github.io/Supermathematics-and-Artificial-General-Intelligence/
 
 WHY?
+==================
 [Researchgate/Why is the purpose of human life to create Artificial General Intelligence](https://www.researchgate.net/publication/319235750_Why_is_the_purpose_of_human_life_to_create_Artificial_General_Intelligence)
 
 
