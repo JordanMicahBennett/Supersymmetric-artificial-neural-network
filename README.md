@@ -34,11 +34,11 @@ PAPER
 ==================
 [https://www.researchgate.net/publication/Thought_Curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)
 
-INVENTION PROCESS
+INVENTION PROCESS???
 ==================
 1. I practice writing [basic artificial neural networks every 6 months or a year](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE), from scratch/memory.
 2. I cross reference my implementations with [my understanding of basic artificial neural networks](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids).
-3. I try to derive [mathematical overviews of the entire field](https://camo.githubusercontent.com/f241eca11ea6f241d264dcf9d8c0ae28ca2ecae6/68747470733a2f2f692e696d6775722e636f6d2f52366939414a632e706e67), to avoid repition of past studies/models.
+3. I try to derive [mathematical overviews of the entire field](https://camo.githubusercontent.com/f241eca11ea6f241d264dcf9d8c0ae28ca2ecae6/68747470733a2f2f692e696d6775722e636f6d2f52366939414a632e706e67), to avoid repitition of past studies/models. (Note that repitition tends to be beneficial for incremental improvements. However, as far as I have researched, novel inventions require both repitition and new avenues of thought/research.)
 4. I then apply math/machine learning literature to develop [a novel learning model](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network).
 
 SUMMARY
