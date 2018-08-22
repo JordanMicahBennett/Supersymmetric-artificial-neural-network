@@ -34,7 +34,7 @@ PAPER
 ==================
 [https://www.researchgate.net/publication/Thought_Curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)
 
-HOW I ATTEMPT TO INVENT A NOVEL MODEL LIKE THE SUPERSYMMETRIC ARTIFICIAL NEURAL NETWORK
+INVENTION PROCESS
 ==================
 1. I practice writing [basic artificial neural networks every 6 months or a year](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE), from scratch/memory.
 2. I cross reference my implementations with [my understanding of basic artificial neural networks](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids).
