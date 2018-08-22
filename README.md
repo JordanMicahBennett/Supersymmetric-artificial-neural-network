@@ -40,9 +40,9 @@ INVENTION PROCESS???
 2. I cross reference my implementations with [my understanding of basic artificial neural networks](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids).
 3. I try to derive [mathematical overviews of the entire field](https://camo.githubusercontent.com/f241eca11ea6f241d264dcf9d8c0ae28ca2ecae6/68747470733a2f2f692e696d6775722e636f6d2f52366939414a632e706e67), to avoid repitition of past studies/models. 
 
-    Note that repitition tends to be beneficial for incremental improvements, such as incremental improvements found in [the various flavours of GAN](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them). 
+    i. Note that repitition tends to be beneficial for incremental improvements, such as incremental improvements found in [the various flavours of GAN](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them), created after [the original GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network).
   
-    However, as far as I have researched, novel inventions require both repitition and largely new avenues of thought/research, such as [the original GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network), and I venture to say, my [Supersymmetric Artificial Neural Network.](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-networ)
+    ii. However, as far as I have researched, novel inventions require both repitition and largely new avenues of thought/research, such as [the original GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network), and I venture to say, my [Supersymmetric Artificial Neural Network.](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-networ)
     
 4. I then apply math/machine learning literature to develop [a novel learning model](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network).
 
