@@ -38,7 +38,7 @@ INVENTION PROCESS???
 ==================
 1. I practice writing [basic artificial neural networks every 6 months or a year](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE), from scratch/memory.
 2. I cross reference my implementations with [my understanding of basic artificial neural networks](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids).
-3. I try to derive [mathematical overviews of the entire field](https://camo.githubusercontent.com/f241eca11ea6f241d264dcf9d8c0ae28ca2ecae6/68747470733a2f2f692e696d6775722e636f6d2f52366939414a632e706e67), to avoid repitition of past studies/models. 
+3. I try to derive [mathematical overviews of the entire field](https://camo.githubusercontent.com/f241eca11ea6f241d264dcf9d8c0ae28ca2ecae6/68747470733a2f2f692e696d6775722e636f6d2f52366939414a632e706e67), to avoid only repitition of past studies/models. 
 
     i. Note that repitition tends to be beneficial for incremental improvements, such as incremental improvements found in [the various flavours of GAN](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them), created after [the original GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network).
   
