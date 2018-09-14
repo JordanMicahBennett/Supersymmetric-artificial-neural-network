@@ -1,8 +1,11 @@
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image.png "default page")
 
+Alternate-title
+============================================
+“Thought Curvature”. (Similar to “Thought vectors”, with the distinction that supermanifold/curvatures are used to describe the SANN model. See manifold/curvature work in  geometric deep learning by Michael Bronstein et al.)
+
 What is the motivation behind the "Supersymmetric Artificial Neural Network?"
 ============================================
-
 
 The "[Supersymmetric Artificial Neural Network](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)" (or "**Edward Witten/String theory powered artificial neural network**") is a [Lie Superalgebra](https://en.wikipedia.org/wiki/Lie_superalgebra) aligned algorithmic learning model **(started/created by [myself](https://www.facebook.com/ProgrammingGodJordan) on May 10, 2016)**, based on [evidence ](https://arxiv.org/abs/0705.1134)pertaining to [Supersymmetry](https://en.wikipedia.org/wiki/Supersymmetry) in the biological brain.
 
