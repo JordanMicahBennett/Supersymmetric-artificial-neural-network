@@ -1,8 +1,8 @@
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image.png "default page")
 
-Alternate-title
+Alternate-title: “Thought Curvature”
 ============================================
-“Thought Curvature”. (Similar to “[Thought vectors](https://en.wikipedia.org/wiki/Thought_vector)”, with the distinction that [supermanifold](https://en.wikipedia.org/wiki/Supermanifold)/[curvatures](https://en.wikipedia.org/wiki/Curvature) are used to describe the Supersymmetric Artificial Neural Network"(SANN) model. See [manifold](https://en.wikipedia.org/wiki/Manifold)/[curvature](https://en.wikipedia.org/wiki/Curvature) work in  geometric deep learning by Michael Bronstein et al.)
+“Thought Curvature” is similar to “[Thought vectors](https://en.wikipedia.org/wiki/Thought_vector)”, with the distinction that [supermanifold](https://en.wikipedia.org/wiki/Supermanifold)/[curvatures](https://en.wikipedia.org/wiki/Curvature) are used to describe the Supersymmetric Artificial Neural Network"(SANN) model. See [manifold](https://en.wikipedia.org/wiki/Manifold)/[curvature](https://en.wikipedia.org/wiki/Curvature) work in  geometric deep learning by Michael Bronstein et al.
 
 
 What is the motivation behind the "Supersymmetric Artificial Neural Network?"
