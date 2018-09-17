@@ -1,8 +1,13 @@
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image.png "default page")
 
-Alternate-title: “Thought Curvature”
+Alternate-title [0]: “Thought Curvature”
 ============================================
 “Thought Curvature” is similar to “[Thought vectors](https://en.wikipedia.org/wiki/Thought_vector)”, with the distinction that [supermanifold](https://en.wikipedia.org/wiki/Supermanifold)/[curvatures](https://en.wikipedia.org/wiki/Curvature) are used to describe the "Supersymmetric Artificial Neural Network"(SANN) model. (See [manifold](https://en.wikipedia.org/wiki/Manifold)/[curvature](https://en.wikipedia.org/wiki/Curvature) work in [geometric deep learning by Michael Bronstein et al.](https://arxiv.org/abs/1611.08097)
+
+Alternate-title [1]: “Supersymmetric Gradient Descent”
+============================================
+In propagating small changes wrt some target space within a problem space, throughout the supersymmetric model, i.e. supersymmetric stochastic gradient descent. This is not to be confused for [Symmetric tensors](https://en.wikipedia.org/wiki/Symmetric_tensor) as seen in [old Higher Order Symmetric Tensor papers, that dont concern superspace, but falsely label said symmetric tensors as "supersymmetric tensors"](https://arxiv.org/pdf/1201.3424). Pertinently, [see this paper, describing the phenomena of "super" tensor labelling errors](https://arxiv.org/pdf/0802.1681). Notably, [even recent higher order tensor papers, that likewise dont concern superspace](https://arxiv.org/pdf/1701.0542) are still invalidly commiting the "super" labelling error, as described in the [error indicating paper prior cited](https://arxiv.org/pdf/0802.1681)).
+
 
 
 What is the motivation behind the "Supersymmetric Artificial Neural Network?"
