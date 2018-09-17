@@ -46,6 +46,8 @@ PAPER
 
 GLOBAL CONFERENCE(S)
 ==================
+![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_gcainn.jpg "default page")
+
 The "[Supersymmetric Artificial Neural Network abstract](https://drive.google.com/file/d/1pCkync_I2LCPkvFXq-wnUNyxfG8YwVZ0/view?usp=sharing)" was accepted to the "[6th Global Conference For Artificial Intelligence and Neural Networks](http://bit.ly/2NjPzsM)".
 
 
