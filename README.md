@@ -43,6 +43,12 @@ PAPER
 ==================
 [https://www.researchgate.net/publication/Thought_Curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)
 
+
+GLOBAL CONFERNECE(S)
+==================
+The "[Supersymmetric Artificial Neural Network abstract](https://drive.google.com/file/d/1pCkync_I2LCPkvFXq-wnUNyxfG8YwVZ0/view?usp=sharing)" was accepted to the "[6th Global Conference For Artificial Intelligence and Neural Networks](http://bit.ly/2NjPzsM)".
+
+
 INVENTION PROCESS???
 ==================
 1. I practice writing [basic artificial neural networks every 6 months or a year](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE), from scratch/memory.
