@@ -2,7 +2,7 @@
 
 Alternate-title [0]: “Thought Curvature”
 ============================================
-“Thought Curvature” is similar to “[Thought vectors](https://en.wikipedia.org/wiki/Thought_vector)”, with the distinction that [supermanifold](https://en.wikipedia.org/wiki/Supermanifold)/[curvatures](https://en.wikipedia.org/wiki/Curvature) are used to describe the "Supersymmetric Artificial Neural Network"(SANN) model. (See [manifold](https://en.wikipedia.org/wiki/Manifold)/[curvature](https://en.wikipedia.org/wiki/Curvature) work in [geometric deep learning by Michael Bronstein et al.](https://arxiv.org/abs/1611.08097)
+“Thought Curvature” is similar to “[Thought vectors](https://en.wikipedia.org/wiki/Thought_vector)”, with the distinction that [supermanifold](https://en.wikipedia.org/wiki/Supermanifold)/[curvatures](https://en.wikipedia.org/wiki/Curvature) are used to describe the "Supersymmetric Artificial Neural Network"(SANN) model. (See [manifold](https://en.wikipedia.org/wiki/Manifold)/[curvature](https://en.wikipedia.org/wiki/Curvature) work in [geometric deep learning by Michael Bronstein et al.](https://arxiv.org/abs/1611.08097))
 
 Alternate-title [1]: “Supersymmetric Gradient Descent”
 ============================================
