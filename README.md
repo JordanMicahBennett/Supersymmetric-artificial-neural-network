@@ -59,7 +59,7 @@ INVENTION PROCESS???
 
     i. Note that repitition tends to be beneficial for incremental improvements, such as incremental improvements found in [the various flavours of GAN](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them), created after [the original GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network).
   
-    ii. However, as far as I have researched, novel inventions require both repitition and largely new avenues of thought/research, such as [the original GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network) (or [which resembles the older Predictability Minimization algorithm](http://people.idsia.ch/~juergen/unsupervised-neural-nets-fight-minimax-game.html)), and I venture to say, my [Supersymmetric Artificial Neural Network.](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-networ)
+    ii. However, as far as I have researched, novel inventions require both repitition and largely new avenues of thought/research, such as [the original GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network) ([which resembles the older Predictability Minimization algorithm](http://people.idsia.ch/~juergen/unsupervised-neural-nets-fight-minimax-game.html)), and I venture to say, my [Supersymmetric Artificial Neural Network.](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-networ)
     
 4. I then apply math/machine learning literature to develop [a novel learning model](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network).
 
