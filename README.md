@@ -54,7 +54,7 @@ Youtube video showcasing email/acceptance letters: https://www.youtube.com/watch
 
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_icmlsc.png "default page")
 
-2. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 3rd International Conference on Machine Learning and Soft Computing](https://neuralnetworks.conferenceseries.com/)".
+2. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 6th global conference for artificial intelligence and neural networks](https://neuralnetworks.conferenceseries.com/)".
 
 
 INVENTION PROCESS???
