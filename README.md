@@ -41,7 +41,9 @@ paper: https://www.researchgate.net/publication/316586028_Thought_Curvature_An_u
 
 PAPER
 ==================
-[https://www.researchgate.net/publication/Thought_Curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)
+Format with Coloured mathematical notations: [https://www.researchgate.net/publication/Thought_Curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)
+
+Conference format: [Google drive/Thought Cruvature](https://drive.google.com/file/d/15dWZ5FwbgASg8FSjybGtICCDezDvgQx2/view?usp=sharing)
 
 
 GLOBAL CONFERENCE(S)/JOURNAL(S)
