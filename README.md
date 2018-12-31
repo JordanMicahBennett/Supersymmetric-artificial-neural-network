@@ -51,7 +51,7 @@ Youtube video showcasing email/acceptance letters: https://www.youtube.com/watch
 
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_icmlsc.png "default page")
 
-1. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 3rd International Conference on Machine Learning and Soft Computing](http://www.icmlc.org/)".
+1. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 3rd International Conference on Machine Learning and Soft Computing](http://www.icmlsc.org/)".
 
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_gcainn.jpg "default page")
 
