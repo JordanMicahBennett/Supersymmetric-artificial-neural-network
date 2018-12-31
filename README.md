@@ -44,11 +44,17 @@ PAPER
 [https://www.researchgate.net/publication/Thought_Curvature](https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis_-_on_the_%27Supersymmetric_Artificial_Neural_Network%27)
 
 
-GLOBAL CONFERENCE(S)
+GLOBAL CONFERENCE(S)/JOURNAL(S)
 ==================
+
+Youtube video showcasing email/acceptance letters: https://www.youtube.com/watch?v=BuE7dtYaKA8
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_gcainn.jpg "default page")
 
-The "[Supersymmetric Artificial Neural Network abstract](https://drive.google.com/file/d/1pCkync_I2LCPkvFXq-wnUNyxfG8YwVZ0/view?usp=sharing)" was accepted to the "[6th Global Conference For Artificial Intelligence and Neural Networks](http://bit.ly/2NjPzsM)".
+1. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 3rd International Conference on Machine Learning and Soft Computing](http://www.icmlc.org/)".
+
+![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_icmlsc.png "default page")
+
+2. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 3rd International Conference on Machine Learning and Soft Computing](https://neuralnetworks.conferenceseries.com/)".
 
 
 INVENTION PROCESS???
