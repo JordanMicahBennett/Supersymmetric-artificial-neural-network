@@ -49,15 +49,22 @@ Conference format: [Open Review/Thought Curvature](https://openreview.net/pdf?id
 GLOBAL CONFERENCE(S)/JOURNAL(S)
 ==================
 
+1. The "Supersymmetric Artificial Neural Network Model" [was accepted to a String Theory conference called "String Theory and Cosmology Gordon research conference"](https://drive.google.com/file/d/1gtIxjZ2rJ9RbhqdnoyP_8YlFEEWg0FUO/view), where the likes of far smarter persons than myself, like PhD physicists such as "Hitoshi Murayama" will be speaking.
+
+Website:
+https://www.grc.org/string-theory-and-cosmology-conference/2019/ 
+
+**Note**: For those who don't know, String Theory is referred to as Science's best theory of explaining the origin of the universe, championed by some of the world's smartest people, including Edward Witten, referred to as the "World's smartest physicist", on par with Newton and Einstein.
+
 Youtube video showcasing email/acceptance letters: https://www.youtube.com/watch?v=BuE7dtYaKA8
 
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_icmlsc.png "default page")
 
-1. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 3rd International Conference on Machine Learning and Soft Computing](http://www.icmlsc.org/)".
+2. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 3rd International Conference on Machine Learning and Soft Computing](http://www.icmlsc.org/)".
 
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_gcainn.jpg "default page")
 
-2. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 6th global conference for artificial intelligence and neural networks](https://neuralnetworks.conferenceseries.com/)".
+3. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 6th global conference for artificial intelligence and neural networks](https://neuralnetworks.conferenceseries.com/)".
 
 
 INVENTION PROCESS???
