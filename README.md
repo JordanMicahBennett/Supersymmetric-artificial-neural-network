@@ -82,7 +82,7 @@ INVENTION PROCESS???
 SUMMARY
 ==================
 
-![](https://i.imgur.com/Uru3bU0.png)
+![](https://i.imgur.com/k99apx8.png)
 
 YOUTUBE-SUMMARY
 ==================
