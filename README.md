@@ -1,4 +1,4 @@
-![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image.png "default page")
+![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_v2.png "default page")
 
 Alternate-title [0]: “Thought Curvature”
 ============================================
