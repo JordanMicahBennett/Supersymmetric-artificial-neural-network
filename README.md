@@ -45,6 +45,10 @@ Format with Coloured mathematical notations: [https://www.researchgate.net/publi
 
 Conference format: [Open Review/Thought Curvature](https://openreview.net/pdf?id=SJewsu6qOV)
 
+Artificial neural network/symmetry group landscape visualization
+===================
+![](https://i.imgur.com/NRA0CH3.png)
+
 
 GLOBAL CONFERENCE(S)/JOURNAL(S)
 ==================
