@@ -47,8 +47,8 @@ Conference format: [Open Review/Thought Curvature](https://openreview.net/pdf?id
 
 Artificial neural network/symmetry group landscape visualization
 ===================
-![](https://i.imgur.com/NRA0CH3.png)
-
+![](https://imgur.com/6ikD2UZ)
+paper: https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis
 
 GLOBAL CONFERENCE(S)/JOURNAL(S)
 ==================
