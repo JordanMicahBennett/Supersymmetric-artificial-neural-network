@@ -45,7 +45,7 @@ PAPER
 
 Artificial neural network/symmetry group landscape visualization
 ===================
-![](https://i.imgur.com/zRaUW6K.png)
+![](https://i.imgur.com/KdcuSUa.png)
 paper: https://www.researchgate.net/publication/316586028_Thought_Curvature_An_underivative_hypothesis
 
 GLOBAL CONFERENCE(S)/JOURNAL(S)
