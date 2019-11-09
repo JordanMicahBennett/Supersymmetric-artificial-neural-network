@@ -8,6 +8,9 @@ Alternate-title [1]: “Supersymmetric Gradient Descent”
 ============================================
 In propagating small changes wrt some target space within a problem space, throughout the supersymmetric model, supersymmetric stochastic gradient descent is roughly performed. This is not to be confused for [Symmetric tensors](https://en.wikipedia.org/wiki/Symmetric_tensor) as seen in [old Higher Order Symmetric Tensor papers, that dont concern superspace, but falsely label said symmetric tensors as "supersymmetric tensors"](https://arxiv.org/pdf/1201.3424). Pertinently, [see this paper, describing the phenomena of "super" tensor labelling errors](https://arxiv.org/pdf/0802.1681). Notably, [even recent higher order tensor papers, that likewise dont concern superspace](https://arxiv.org/pdf/1410.4536.pdf) are still invalidly commiting the "super" labelling error, as described in the [error indicating paper prior cited](https://arxiv.org/pdf/0802.1681)).
 
+Supersymmetric Artificial Neural Network in Layman's terms
+============================================
+[Article/My “Supersymmetric Artificial Neural Network” in layman’s terms](https://medium.com/@jordanmicahbennett/article-ai-the-supersymmetric-artificial-neural-network-in-laymans-terms-4f416d7d76da)
 
 
 What is the motivation behind the "Supersymmetric Artificial Neural Network?"
