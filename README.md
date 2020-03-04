@@ -12,7 +12,7 @@ Supersymmetric Artificial Neural Network in Layman's terms
 ============================================
 [Article/My “Supersymmetric Artificial Neural Network” in layman’s terms](https://medium.com/@jordanmicahbennett/article-ai-the-supersymmetric-artificial-neural-network-in-laymans-terms-4f416d7d76da)
 
-Work by a Physics person, who communicated to me via email that he is attracted to my idea in February 2019
+Work by a Physics person, who communicated to me via email that he became attracted to my idea in February 2019
 ============================================
 See the paper of a physics person, [Mitchell Porter](https://physics.stackexchange.com/users/1486/mitchell-porter) who became attracted to my idea in **February 2019**, and wrote a paper in **March 2019** citing my work: https://www.researchgate.net/publication/332103958_2019_Applications_of_super-mathematics_to_machine_learning
 
