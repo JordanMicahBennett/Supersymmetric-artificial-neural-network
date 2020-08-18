@@ -19,7 +19,7 @@ Wikiversity Page (Wikipedia-like format)
 ============================================
 https://en.wikiversity.org/wiki/Supersymmetric_Artificial_Neural_Network
 
-![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_wikiversity_image.png "default page")
+![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_wikiversity_image_v2.png "default page")
 
 
 Work by a Physics person, who communicated to me via email that he became attracted to my idea in February 2019
@@ -60,6 +60,7 @@ PAPER
 ==================
 [Open Review/Thought Curvature](https://openreview.net/pdf?id=SJewsu6qOV)
 
+
 Artificial neural network/symmetry group landscape visualization
 ===================
 ![](https://i.imgur.com/KdcuSUa.png)
@@ -88,6 +89,11 @@ Youtube video showcasing email/acceptance letters: https://www.youtube.com/watch
 ![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_gcainn.jpg "default page")
 
 3. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted to "[The 6th global conference for artificial intelligence and neural networks](https://neuralnetworks.conferenceseries.com/)".
+
+
+![Alt text](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/blob/master/_image_DeepAi.png "default page")
+
+4. The "[Supersymmetric Artificial Neural Network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network/)" was accepted/published [by DeepAi](https://deepai.org/publication/supersymmetric-artificial-neural-network).
 
 
 SUMMARY
